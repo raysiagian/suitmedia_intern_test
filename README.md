@@ -1,3 +1,2 @@
-# flutter_app
+Suitmedia Test Flutter App
 
-A new Flutter project.
